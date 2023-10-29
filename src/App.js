@@ -1,10 +1,10 @@
-import './App.css';
-import Dplogo from './Dplogo/Dplogo';
+import Details from "./Components/Details";
+
 
 function App() {
   return (
     <div className="App">
-      <Dplogo />
+      <Details />
     </div>
   );
 }
